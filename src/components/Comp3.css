@@ -1,0 +1,60 @@
+.card-container{
+    width: 80vw;
+    height: 87vh;
+    box-shadow: 0 0 10px black;
+    margin: 100px auto;
+    background-color: aquamarine;
+}
+/* .card{
+    width: 100%;
+    height: 100%;
+    background-image: url("https://media.istockphoto.com/id/479520746/photo/laptop-with-blank-screen-on-white.jpg?b=1&s=170667a&w=0&k=20&c=uNAzmDJWcqYqOpPh1JYn4TeuaWdJ0G9HOSE_2r3ReG8=");
+    background-size: 100%;
+    height: 100%;
+
+} */
+ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 270px;
+    list-style: none;
+}
+li{
+    margin-left: 30px;
+}
+.card{
+    display: flex;
+   padding-left: 30px;
+   color: black;
+   background-color: white;
+   
+}
+.card2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* margin: 30px auto; */
+    background-color: wheat;
+}
+.left{
+    text-align: center;
+    width: 300px;
+    margin-right: 70px;
+}
+.right img{
+    width: 400px;
+    padding-top: 30px;
+
+   
+}
+.footer{
+    display: flex;
+padding: 10px;  
+background-color: black;  
+color: white;
+}
+.item{
+    /* width: 300px;
+    height: 50px; */
+}
